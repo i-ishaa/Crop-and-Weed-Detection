@@ -1,1 +1,4 @@
-
+Dataset is fetched from kaggle.
+It contains 1300 images of sesame crops and different types of weeds with each image labels.
+Each image is a 512 X 512 color image. 
+Total files in dataset: 2600
